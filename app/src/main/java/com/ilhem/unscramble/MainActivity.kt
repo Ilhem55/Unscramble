@@ -1,4 +1,4 @@
-package com.iset.unscramble
+package com.ilhem.unscramble
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

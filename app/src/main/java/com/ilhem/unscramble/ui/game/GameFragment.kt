@@ -1,4 +1,4 @@
-package com.iset.unscramble.ui.game
+package com.ilhem.unscramble.ui.game
 
 import android.os.Bundle
 import android.util.Log
@@ -9,8 +9,8 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
-import com.iset.unscramble.R
-import com.iset.unscramble.databinding.FragmentGameBinding
+import com.ilhem.unscramble.R
+import com.ilhem.unscramble.databinding.FragmentGameBinding
 
 /**
  * Fragment where the game is played, contains the game logic.

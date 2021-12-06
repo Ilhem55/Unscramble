@@ -6,7 +6,7 @@
     <data>
             <variable
                 name="gameViewModel"
-                type="com.iset.unscramble.ui.game.GameViewModel" />
+                type="com.ilhem.unscramble.ui.game.GameViewModel" />
         <variable
             name="maxNoOfWords"
             type="int" />
